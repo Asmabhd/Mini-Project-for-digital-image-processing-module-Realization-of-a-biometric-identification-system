@@ -1,5 +1,5 @@
-# Mini-Projet-de-module-traitement-d-image-num-rique-R-alisation-d-un-syst-me-biom-trique-d-identifica
+# Mini-Digital-image-processing-module-project-Realization-of-a-biometric-identification-system
 
-Dans cette partie du mini-projet nous avons étudié et analyser les images de la base de données casia_v1 
-afin de pouvoir les utiliser dans notre phase de prétraitement d’images pour ne garder que les parties les plus importantes de l’image et enfin avoir l’identité d’une personne basée sur le degré de similitude entre les caractéristiques extraites et les modèles stockés.
-La reconnaissance de l'iris s'est avérée être une mesure de sécurité très utile et polyvalente, largement utilisée à l'avenir.
+In this part of the mini-project we have studied and analyzed images from the casia_v1 database
+so that we can use them in our image preprocessing phase to keep only the most important parts of the image and finally have the identity of a person based on the degree of similarity between the extracted characteristics and the stored models .
+Iris recognition has proven to be a very useful and versatile security measure that will be widely used in the future.
